@@ -1,0 +1,22 @@
+{
+  "rows": 2,
+  "cols": 2,
+  "resize_mode": "longest_edge",
+  "image_size": 800,
+  "aspect_ratio": null,
+  "h_spacing": 20,
+  "v_spacing": 20,
+  "spacing_unit": "px",
+  "label_format": "(a)",
+  "label_position": "top_left",
+  "label_font": "Arial",
+  "label_font_size": 12,
+  "label_color": "black",
+  "label_margin": 10,
+  "bg_color": "white",
+  "canvas_margin": 10,
+  "align": "center",
+  "output_format": "PNG",
+  "dpi": 300,
+  "output_path": ""
+}
